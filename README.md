@@ -16,3 +16,4 @@ npm i
 
 //run metro bundler
 npm start
+![PCD (3)](https://user-images.githubusercontent.com/64382076/124619164-b344bb80-de78-11eb-9067-ecd70a551c1e.gif)
